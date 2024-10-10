@@ -1,0 +1,25 @@
+"""
+1) le programme est correct de 1 à 5
+2) n//6+1 n'est pas correct, par exemple pour n=6, cela donne 2 boites
+3)écrivons les résultats attendus et les résultats de n//6 en fonction de n :
+
+n     solution    n//6
+0     0           0
+1     1           0
+2     1           0
+3     1           0
+4     1           0
+5     1           0
+6     1           1
+7     2           1
+8     2           1
+9     2           1
+10    2           1
+11    2           1
+12    2           2
+13    3           2
+
+
+pour passer de l'un à l'autre, il va falloir décaler les résultats d'une ligne et faire +1
+soit (n-1)//6+1
+"""

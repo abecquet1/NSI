@@ -1,0 +1,59 @@
+ex3
+
+1) 1+2*(3-4)
+2) 1+2+5*3+4
+3) 1-(2-3+4)+5-6+(7-8)/2
+
+
+ex4
+
+Les valeurs de a, ligne par ligne sont :
+3
+4
+6
+6
+
+L'interprête affiche 6
+
+
+ex5
+
+Les valeurs de a et b, ligne par ligne sont :
+a	b
+2
+2	4
+2	8
+2	64
+2	64
+
+L'interprête affiche 64
+
+
+ex6
+
+A chaque étape, on élève le résultat intermédiaire au carré, ce qui revient à doubler la puissance de deux
+
+2**1
+2**2
+2**4
+.
+.
+.
+2**1024
+
+
+ex7
+
+La première affiche le texte '1+'.
+La seconde déclenche une erreur. En effet, le calcul 1+ n'est pas complet (1 plus quoi ?).
+
+
+ex 8
+
+Le programme déclanche une erreur. En effet, la variable a contient (après l'input) un texte, la calcul a+1 n'a donc pas de sens (texte plus nombre).
+
+
+ex9
+
+Cette séquence échange le contenu des variables a et b.
+
