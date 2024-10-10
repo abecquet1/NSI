@@ -1,0 +1,4 @@
+Produit : str
+Quantité : int
+Disponible : bool
+Libre : bool

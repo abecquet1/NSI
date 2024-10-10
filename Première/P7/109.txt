@@ -1,0 +1,1 @@
+Ce programme affiche 1000 * 1000 * 1000 * 10000 = 1000 milliards de fois le texte "Mille sabords !" 

@@ -1,0 +1,8 @@
+les deux fonctions calclculent la même quantité, à savoir le produit des sommes des éléments du tableau
+
+cependant :  
++ la première le fait avec une double boucle, complexité quadratique
++ le secondfe le faitr avec deux boucles simples, complexité linéaire 
+
+Pour le vérifier, on peut ajouter des prints dans les boucles 
+ou utiliser perf_counter pour mesurer les temps d'exécution
